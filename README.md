@@ -11,17 +11,19 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroczrm&langs_count=8&theme=dark&show)
 -->
- ## 1. GitHub Stats
+ ## GitHub Stats
 ![Alvaro's Stats](https://github-readme-stats.vercel.app/api?username=alvaroczrm&show_icons=true&theme=blue-green)
-## 2. Most Used Languages
+## Most Used Languages
 ![Alvaro's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroczrm&theme=blue-green)
-## 3. Random Joke Generator
+## Trophys
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=alvaroczrm&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+## Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-## 4. Profile View Counter
+## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=alvaroczrm)
-## 5. Last commit
+## Last commit
 [![GitHub commits](https://badgen.net/github/commits/alvaroczrm/Java-Frames)](https://GitHub.com/alvaroczrm/Java-Frames/commit/)
-## 6. Contributors Badge
+## Contributors Badge
 ![Alvaro's Stats](https://contrib.rocks/image?repo=pacoromo99/Kahoot)
 <!--### Repository View Counter - HITS
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/alvaroczrm/Java-Frames)
