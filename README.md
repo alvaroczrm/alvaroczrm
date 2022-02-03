@@ -15,12 +15,14 @@
 ![Alvaro's Stats](https://github-readme-stats.vercel.app/api?username=alvaroczrm&show_icons=true&theme=blue-green)
 ## 2. Most Used Languages
 ![Alvaro's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroczrm&theme=blue-green)
-## 3. Contributors Badge
-![Alvaro's Stats](https://contrib.rocks/image?repo=pacoromo99/Kahoot)
-## 4. Random Joke Generator
+## 3. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-## 5. Profile View Counter
+## 4. Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=alvaroczrm)
+## 5. Last commit
+[![GitHub commits](https://badgen.net/github/commits/alvaroczrm/Java-Frames)](https://GitHub.com/alvaroczrm/Java-Frames/commit/)
+## 6. Contributors Badge
+![Alvaro's Stats](https://contrib.rocks/image?repo=pacoromo99/Kahoot)
 <!--### Repository View Counter - HITS
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/alvaroczrm/Java-Frames)
 -->
