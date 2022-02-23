@@ -2,7 +2,7 @@
 ### I am just an entusiact of technology, trying to learn new skills along i discover the infinity oportunities that this digital world is up to offer us, i am currently focusing on learning programing lenguajes, like Java, JavaScript, Python, java for Android and whatever more is to come!
 
 - 🔭 I’m currently working on my skills with java and python as a backend and android developer
-- 🌱 I’m currently learning ... Java, JavaScript, HTML, CSS, Python
+- 🌱 I’m currently learning ... Java, JavaScript, HTML, CSS, Python, API Development with PHP..
 <!-- - 👯 I’m looking to collaborate on ...
 ##- 🤔 I’m looking for help with ...
 ##- 💬 Ask me about ... -->
