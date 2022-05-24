@@ -8,7 +8,7 @@
 <!-- - 👯 I’m looking to collaborate on ...
 
 ##- 💬 Ask me about ... -->
-- 📫 How to reach me: alvaroczrm@gmail.com
+- 📫 How to reach me: alvaroczrm@gmail.com // wenderdevproject@gmail.com
 <!--## Github Stats
 ![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaroczrm&show_icons=true&theme=dark&show)
 
